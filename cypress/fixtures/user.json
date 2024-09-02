@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "John Smith",
+  "email": "john.smith@example.com",
+  "profile_picture_url": "https://example.com/profile.jpg",
+  "current_organisation": {
+    "id": 1,
+    "name": "Sample Bank ABC",
+    "logo_url": "https://example.com/logo.png",
+    "is_personal": false
+  }
+}

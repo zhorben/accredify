@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "issued",
+      "document_name": "Certificate of Completion",
+      "issuer_name": "Sample University",
+      "issuer_logo_url": "https://example.com/uni_logo.png",
+      "recipient_name": "John Smith",
+      "received_on": "2023-01-15T00:00:00Z",
+      "expire_at": null,
+      "created_at": "2023-01-15T00:00:00Z",
+      "updated_at": "2023-01-15T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "status": "issued",
+      "document_name": "Professional Certification",
+      "issuer_name": "Industry Association",
+      "issuer_logo_url": "https://example.com/assoc_logo.png",
+      "recipient_name": "John Smith",
+      "received_on": "2023-03-20T00:00:00Z",
+      "expire_at": "2026-03-20T00:00:00Z",
+      "created_at": "2023-03-20T00:00:00Z",
+      "updated_at": "2023-03-20T00:00:00Z"
+    }
+  ]
+}
